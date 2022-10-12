@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="/static/logo.png"></image><view class="text-area"><input type="text" value="{{a}}" bindinput="{{b}}"></input><button bindtap="{{c}}">+1</button></view></view>
